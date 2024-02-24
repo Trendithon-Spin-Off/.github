@@ -1,6 +1,6 @@
 코이(Coy)
 ---
-<img src="https://github.com/Trendithon-Spin-Off/.github/assets/90364700/9b1e4d0b-1d5b-4929-8629-f2d2112d099c" alt="Coy" width="250">
+<img src="https://github.com/Trendithon-Spin-Off/Coy-Frontend/blob/main/src/img/%E1%84%89%E1%85%B5%E1%86%B7%E1%84%87%E1%85%A9%E1%86%AF_%E1%84%91%E1%85%A1%E1%84%85%E1%85%A1%E1%86%BC.png" alt="Coy" width="250">
 <br> <br>
 
 새로운 탐색의 시작점이 되는 그곳! - **사이드 프로젝트 홍보 & 채용 공고 탐색 플랫폼, 코이(Coy)**
