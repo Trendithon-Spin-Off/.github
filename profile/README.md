@@ -19,7 +19,7 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/gnuoyxxyx"><img src="https://avatars.githubusercontent.com/u/157468748?v=4" width="100px;" alt=""/><br /><sub><b>PM | 권하영</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/gnuoyxxyx"><img src="https://avatars.githubusercontent.com/u/157468748?v=4" width="100px;" alt=""/><br /><sub><b>PM/DE | 권하영</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/doteeth83"><img src="https://avatars.githubusercontent.com/u/109070965?v=4" width="100px;" alt=""/><br /><sub><b>FE | 고도희</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/pookey1104"><img src="https://avatars.githubusercontent.com/u/90364700?v=4" width="100px;" alt=""/><br /><sub><b>FE | 김서윤</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/guswlsl"><img src="https://avatars.githubusercontent.com/u/111550606?v=4" width="100px;" alt=""/><br /><sub><b>FE | 이현진</b></sub></a><br /></td>
